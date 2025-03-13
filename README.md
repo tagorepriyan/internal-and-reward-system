@@ -3,7 +3,6 @@
 ## Project Overview
 A MERN stack-based Internals and Reward System designed to simplify student management, marks calculation, and certificate verification for teachers.
 
----
 
 ## 📌 Project Layout
 
