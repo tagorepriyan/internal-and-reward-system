@@ -101,8 +101,14 @@ A MERN stack-based Internals and Reward System designed to simplify student mana
 ---
 
 ## 🏆 Contributors
-- **Project Lead:** [Your Name]
-- **Developers:** [Team Members]
+
+- **Developers:**
+  - [Tagorepriyan S P](https://github.com/tagorepriyan)
+  - [Vigneshwar Balakumar](https://github.com/Vigneshwar-bala)
+  - [Keerthanaa Dhevi](https://github.com/keerthanaa25-bk)
+  - [Leela Manoharan](https://github.com/Leela01-ui)
+  - [Alson Roj](https://github.com/alsanroj)
+  - [LokeshKumar B M](https://github.com/LokeshKumarBM)  
 
 ---
 
